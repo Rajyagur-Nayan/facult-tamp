@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "axe/structure": "off",
+    "axe/forms": "off",
+    "button-type": "off",
+    "axe/name-role-value": "off"
+  }
+}
